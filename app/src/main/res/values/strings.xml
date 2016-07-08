@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">听听音乐</string>
+    <string name="action_contact">Contact</string>
+    <string name="local_songs">本地音乐</string>
+    <string name="already_download">已下载</string>
+    <string name="recent_played">最近播放</string>
+    <string name="settings">设置</string>
+    <string name="local_songs_title">本地歌曲</string>
+    <string name="random_play">随机播放</string>
+    <string name="bulk_operation">批量操作</string>
+
+</resources>

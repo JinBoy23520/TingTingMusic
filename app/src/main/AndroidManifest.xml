@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.music.rptang.tingtingmusic">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+
+    <application
+        android:name=".TingTingApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity"></activity>
+        <!-- 本地歌曲activity-->
+        <activity android:name="com.music.rptang.tingtingmusic.LocalSongsActivity"></activity>
+        <!--播放音乐服务-->
+        <service android:name=".MusicPlayService"
+            android:enabled="true"
+            android:exported="true">
+        </service>
+        <!-- 音乐播放界面activity-->
+        <activity android:name=".PlayUIActivity"></activity>
+    </application>
+
+</manifest>
