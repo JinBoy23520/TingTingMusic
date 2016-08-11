@@ -32,9 +32,9 @@ public class MediaUtils {
         BitmapFactory.Options opts = new BitmapFactory.Options();
         opts.inPreferredConfig = Bitmap.Config.RGB_565;
         if(small){
-            return BitmapFactory.decodeStream(context.getResources().openRawResource(R.drawable.music_play),null,opts);
+            return BitmapFactory.decodeStream(context.getResources().openRawResource(+R.drawable.music_play),null,opts);
         }
-        return BitmapFactory.decodeStream(context.getResources().openRawResource(R.drawable.music_play),null,opts);
+        return BitmapFactory.decodeStream(context.getResources().openRawResource(+R.drawable.music_play),null,opts);
     }
 
     /**
