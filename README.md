@@ -6,4 +6,6 @@
 <br>
 [扣丁音乐（二）——PagerSlidingTabStrp集成与运用](http://blog.csdn.net/dt235201314/article/details/51326041 "鼠标悬停显示")
 <br>
-
+<br>
+[扣丁音乐（三）——UI框架的实现](http://blog.csdn.net/dt235201314/article/details/51341057 "鼠标悬停显示")
+<br>
