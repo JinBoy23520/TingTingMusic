@@ -12,3 +12,6 @@
 <br>
 [ 扣丁音乐（四）——本地音乐加载](http://blog.csdn.net/dt235201314/article/details/51341078 "鼠标悬停显示")
 <br>
+<br>
+[扣丁音乐（五）——service实现歌曲播放功能](http://blog.csdn.net/dt235201314/article/details/51341104 "鼠标悬停显示")
+<br>
