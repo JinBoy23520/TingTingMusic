@@ -15,3 +15,6 @@
 <br>
 [扣丁音乐（五）——service实现歌曲播放功能](http://blog.csdn.net/dt235201314/article/details/51341104 "鼠标悬停显示")
 <br>
+<br>
+[扣丁音乐（六）——PlayUIActivity（播放页面）](http://blog.csdn.net/dt235201314/article/details/51360013 "鼠标悬停显示")
+<br>
