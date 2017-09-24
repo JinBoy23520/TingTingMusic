@@ -18,3 +18,6 @@
 <br>
 [扣丁音乐（六）——PlayUIActivity（播放页面）](http://blog.csdn.net/dt235201314/article/details/51360013 "鼠标悬停显示")
 <br>
+<br>
+[扣丁音乐（七）——音乐进度条拖动 循环模式 专辑图片倒影功能实现](http://blog.csdn.net/dt235201314/article/details/51367931 "鼠标悬停显示")
+<br>
