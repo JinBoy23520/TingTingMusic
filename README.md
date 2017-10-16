@@ -1,5 +1,11 @@
 # TingTingMusic
-扣丁音乐改版音乐播放器<br>
+扣丁音乐改版音乐播放器
+<br>
+本文原本是Android实现音乐播放器毕业设计代码部分
+<br>
+由于学校要求低 + CSDN另外有人写相似文章故停更
+<br>
+完成播放器的使用被列入到2017的任务，故重新更新
 <br>
 [扣丁音乐（一）——闪屏页SplashActivity(欢迎界面)）](http://blog.csdn.net/dt235201314/article/details/51325806 "鼠标悬停显示")
 <br>
