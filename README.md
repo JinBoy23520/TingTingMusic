@@ -10,6 +10,7 @@
 视频连接：[Android开发项目实战-扣丁音乐项目实战](http://www.codingke.com/course/177 "鼠标悬停显示")
 <br>
 相关博文：
+<br>
 [扣丁音乐（一）——闪屏页SplashActivity(欢迎界面)）](http://blog.csdn.net/dt235201314/article/details/51325806 "鼠标悬停显示")
 <br>
 <br>
